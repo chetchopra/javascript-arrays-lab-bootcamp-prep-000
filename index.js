@@ -43,3 +43,5 @@ function removeFirstKitten() {
   k.shift();
   return k;
 }
+
+function 
