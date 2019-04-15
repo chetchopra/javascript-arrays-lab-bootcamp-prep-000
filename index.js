@@ -44,4 +44,3 @@ function removeFirstKitten() {
   return k;
 }
 
-function 
